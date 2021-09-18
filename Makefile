@@ -3,8 +3,6 @@
 #
 
 INSTALL = install
-DESTDIR ?= /
-PREFIX  ?= $(DESTDIR)/usr
 
 PATH_I3_GNOME = $(PREFIX)/bin/i3-gnome
 PATH_I3_GNOME_DESKTOP = $(PREFIX)/share/applications/i3-gnome.desktop
